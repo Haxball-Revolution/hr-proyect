@@ -38,12 +38,13 @@
 </div>
 
 
+## IMPORTANT!
 
+_This is not the project repository, you will not find the code here. If you want to contribute to the project, apply on the Discord Server!_
+_This repository is used as the main-menu and description of our project._
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 If you've come this far, you probably know the game HaxBall, a 2D multiplayer soccer game that is characterized by being simple and entertaining.
 
