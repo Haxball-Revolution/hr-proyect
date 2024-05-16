@@ -45,16 +45,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+If you've come this far, you probably know the game HaxBall, a 2D multiplayer soccer game that is characterized by being simple and entertaining.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+I (owner of this project) have been playing HaxBall for about 3-4 years and it has become one of my favorite games due to its entertaining gameplay and community.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+However, unfortunately, during my time playing, I have noticed that HaxBall does not receive constant updates, whether to fix bugs or add new content to the game, although Basro has always been aware of the community about it. The reason for this may be that the game's creator (Mario Carbajal, better known as Basro) does not want to update the game for various personal reasons. It's understandable that he may have other projects besides this one, since HaxBall was a hobby/uni project for him. The game was created 14 years ago. I understand if he has lost motivation or just wants HaxBall to run its course. I guess he must have other projects.
 
-Use the `BLANK_README.md` to get started.
+The reason why I decided to start this project is because I feel that HaxBall only survives thanks to its community, the players who have created leagues, Discord servers, maps, rooms, etc. It is absolutely necessary to receive updates so that the game does not become repetitive and boring.
+
+For this reason, I have in mind to create a game totally similar to HaxBall in its physics, gameplay, interface and more, but with the idea of ​​being more constant with updates. I want to create a more community-focused project that receives updates and makes the community feel heard. Since nowadays it is difficult to receive a response from Basro.
 
 ### Built With
 
@@ -89,15 +88,16 @@ If you have ideas for the project, please join the [Discord Server](https://disc
 
 ## Links & More
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+- [Discord](https://discord.gg/C9umzZVy6s)
+- [Github](https://github.com/Haxball-Revolution/)
 
 <!-- CONTACT -->
 ## Contributors & Team
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+[CEO] [@MachineBreaker](https://github.com/machinebreaker)
+[DEVELOPER] [@abisrc](https://github.com/abisrc)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+_If you want to be part of the team, look at the category ´Become developer or contributor´_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
