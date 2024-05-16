@@ -56,16 +56,11 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+Programming languages/frameworks/libraries that we currently use in the project
+* [![][]][]
+<!--  [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,51 +72,28 @@ If you are interested in being part of the team and are specialized in some of t
 
 _To view the areas, please join the [Discord Server](https://discord.gg/NdPQdPSpXh)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
-## Roadmap
+## To-do 
 
 If you have ideas for the project, please join the [Discord Server](https://discord.gg/NdPQdPSpXh)_
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+- [ ] Add more t-shirts
+- [ ] Add more compatibilites
+- [ ] Multi-plataform Support
+    - [ ] PC & Web
+    - [ ] Cellphone
+     
 <!-- LICENSE -->
-## License
+
+## Links & More
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
-## Contact
+## Contributors & Team
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
