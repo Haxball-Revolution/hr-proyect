@@ -43,7 +43,7 @@ For this reason, I have in mind to create a game totally similar to HaxBall in i
 ### Built With
 
 Programming languages/frameworks/libraries that we currently use in the project
-* [![Godot][GDScript]][godot-url]
+* [![Godot][godot-url]][godot-shield]
 <!--  [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
