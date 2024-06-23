@@ -103,5 +103,5 @@ _If you want to be part of the team, look at the category ´Become developer or 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [godot-url]: https://godotengine.org/
-[godot-shield]: https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat
+[godot-shield]: https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge
 [JQuery-url]: https://jquery.com 
